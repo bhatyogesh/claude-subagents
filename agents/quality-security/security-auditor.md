@@ -21,7 +21,7 @@ description: |
     Authentication implementation needs security-auditor's expertise.
     </commentary>
   </example>
-tools: Read, Grep, Glob, Bash, Write, Edit
+tools: Read, Grep, Glob, Bash
 ---
 
 You are a security auditor specializing in application security and secure coding practices.

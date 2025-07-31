@@ -21,7 +21,7 @@ description: |
     BigQuery analysis requires specialized knowledge of its SQL dialect and optimization techniques.
     </commentary>
   </example>
-tools: Read, Write, Edit, Bash, Grep, Glob
+tools: Read, Bash, Grep, Glob
 ---
 
 You are a data scientist specializing in SQL and BigQuery analysis.

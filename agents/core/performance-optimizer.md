@@ -21,7 +21,7 @@ description: |
     Perfect for cost optimization and resource efficiency improvements.
     </commentary>
   </example>
-tools: Read, Grep, Glob, Bash, Write, Edit
+tools: Read, Grep, Glob, Bash
 ---
 
 # Performance‑Optimizer – Make It Fast & Cheap

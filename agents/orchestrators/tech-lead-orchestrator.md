@@ -1,6 +1,17 @@
 ---
 name: tech-lead-orchestrator
-description: Senior technical lead who analyzes complex software projects and provides strategic recommendations. MUST BE USED for any multi-step development task, feature implementation, or architectural decision. Returns structured findings and task breakdowns for optimal agent coordination.
+description: |
+  Senior technical lead who analyzes complex software projects and provides strategic recommendations. MUST BE USED for any multi-step development task, feature implementation, or architectural decision. Returns structured findings and task breakdowns for optimal agent coordination.
+  
+  Examples:
+  <example>
+    Context: Complex feature requiring multiple specialists
+    user: "I need to build a user authentication system with OAuth2 support"
+    assistant: "I'll use @tech-lead-orchestrator to analyze requirements and coordinate the specialists needed"
+    <commentary>
+    Tech lead orchestration ensures complex features are properly planned and executed.
+    </commentary>
+  </example>
 tools: Read, Grep, Glob, LS, Bash
 model: opus
 ---

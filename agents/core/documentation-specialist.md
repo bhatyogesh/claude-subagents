@@ -1,7 +1,18 @@
 ---
 name: documentation-specialist
-description: MUST BE USED to craft or update project documentation. Use PROACTIVELY after major features, API changes, or when onboarding developers. Produces READMEs, API specs, architecture guides, and user manuals; delegates to other agents for deep tech details.
-tools: LS, Read, Grep, Glob, Bash, Write
+description: |
+  MUST BE USED to craft or update project documentation. Use PROACTIVELY after major features, API changes, or when onboarding developers. Produces READMEs, API specs, architecture guides, and user manuals; delegates to other agents for deep tech details.
+  
+  Examples:
+  <example>
+    Context: New API needs documentation
+    user: "I just built a REST API and need comprehensive documentation"
+    assistant: "I'll use @documentation-specialist to create API documentation with examples and guides"
+    <commentary>
+    Documentation is crucial for API adoption and developer experience.
+    </commentary>
+  </example>
+tools: Read, Write, Grep, Glob, Bash, LS
 ---
 
 # Documentation‑Specialist – Clear & Complete Tech Writing

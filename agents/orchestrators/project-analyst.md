@@ -1,7 +1,18 @@
 ---
 name: project-analyst
-description: MUST BE USED to analyse any new or unfamiliar codebase. Use PROACTIVELY to detect frameworks, tech stacks, and architecture so specialists can be routed correctly.
-tools: LS, Read, Grep, Glob, Bash
+description: |
+  MUST BE USED to analyse any new or unfamiliar codebase. Use PROACTIVELY to detect frameworks, tech stacks, and architecture so specialists can be routed correctly.
+  
+  Examples:
+  <example>
+    Context: New project needs technology analysis
+    user: "I just inherited this codebase and need to understand what it uses"
+    assistant: "I'll use @project-analyst to analyze the tech stack and architecture"
+    <commentary>
+    Project analysis is essential before any development work on unfamiliar codebases.
+    </commentary>
+  </example>
+tools: Read, Grep, Glob, Bash, LS
 ---
 
 # Project‑Analyst – Rapid Tech‑Stack Detection
