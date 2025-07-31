@@ -4,7 +4,7 @@ description: |
   Performance optimization specialist for bottleneck identification and system acceleration.
   
   Examples:
-  - <example>
+  <example>
     Context: When users report application slowness
     user: "Our API response times have increased to 3+ seconds"
     assistant: "I'll use the performance-optimizer agent to profile your API and identify the bottlenecks causing slow responses."
@@ -13,7 +13,7 @@ description: |
     </commentary>
   </example>
   
-  - <example>
+  <example>
     Context: When cloud costs are increasing unexpectedly
     user: "Our AWS bill doubled this month but traffic only increased 20%"
     assistant: "I'll use the performance-optimizer agent to analyze your resource usage and identify cost optimization opportunities."

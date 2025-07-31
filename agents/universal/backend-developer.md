@@ -21,7 +21,7 @@ description: |
     Perfect for backend refactoring, performance optimization, and implementing architectural patterns.
     </commentary>
   </example>
-tools: Read, Grep, Glob, Bash, Write, Edit, MultiEdit, WebSearch, WebFetch
+tools: Read, Write, Edit, MultiEdit, Bash, Grep, Glob, WebSearch, WebFetch
 ---
 
 # Backend‑Developer – Polyglot Implementer

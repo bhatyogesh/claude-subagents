@@ -4,7 +4,7 @@ description: |
   Comprehensive code review specialist for quality, security, and maintainability analysis.
   
   Examples:
-  - <example>
+  <example>
     Context: When reviewing code changes before merge
     user: "Review this pull request before I merge it"
     assistant: "I'll use the code-reviewer agent to perform a comprehensive security-aware review of your PR changes."
@@ -13,7 +13,7 @@ description: |
     </commentary>
   </example>
   
-  - <example>
+  <example>
     Context: When analyzing code quality issues
     user: "Can you review this module for potential issues?"
     assistant: "I'll use the code-reviewer agent to analyze your module for security, performance, and maintainability issues."

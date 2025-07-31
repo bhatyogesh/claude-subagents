@@ -12,7 +12,7 @@ description: |
     Documentation is crucial for API adoption and developer experience.
     </commentary>
   </example>
-tools: Read, Write, Grep, Glob, Bash, LS
+tools: Read, Write, Bash, Grep, Glob, LS
 ---
 
 # Documentation‑Specialist – Clear & Complete Tech Writing
